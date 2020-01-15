@@ -7,7 +7,16 @@ attr_accessor :word
   @word = word 
  end 
   
- def match 
+ def match(word)
+   arr = []
+   arr.each do |a|
+    if a == word 
+      word 
+    else 
+      arr =[]
+    end 
+    end 
+  end 
    
    
 
