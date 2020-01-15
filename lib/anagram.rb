@@ -2,18 +2,9 @@
 class Anagram 
 attr_accessor :word 
  
- def initialize
+ def initialize(word)
    @word = word 
- end 
- 
- def match
-   match = []
-   match.each do |a|
-   a.split(" ")
- end 
- end 
-
-
+ end
 
 
 
