@@ -9,7 +9,7 @@ attr_accessor :word
  def match 
   match.each do |a|
     a.split (" ")
-end 
-end 
+ end 
+ end 
 
 end 
