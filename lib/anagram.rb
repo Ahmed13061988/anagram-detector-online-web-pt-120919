@@ -11,9 +11,9 @@ attr_accessor :word
    arr = []
    arr.each do |a|
     if a == word 
-      word 
+      
     else 
-      arr =[]
+      
     end 
     end 
   end 
