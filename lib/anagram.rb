@@ -19,7 +19,7 @@ attr_accessor :word
  if arr == arr1 
    word 
  else 
-   false 
+   []
  end 
   end 
    
