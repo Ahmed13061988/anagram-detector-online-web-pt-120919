@@ -12,5 +12,4 @@ attr_accessor :word
     (@word.split("").sort) == (elements.split("").sort) 
     end 
   end 
-
 end 
