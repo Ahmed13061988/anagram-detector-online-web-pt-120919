@@ -11,6 +11,7 @@ attr_accessor :word
   match.each do |a|
   a.split(" ")
  end 
+ end 
 
 
 
