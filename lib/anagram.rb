@@ -8,7 +8,8 @@ attr_accessor :word
  end 
   
  def match(words)
-   words = (@word)
+   words.select do |a|
+     
       
     
   
