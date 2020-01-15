@@ -16,7 +16,7 @@ attr_accessor :word
  arr1.each do |b|
    b 
  end 
- if arr = arr1 
+ if arr == arr1 
    word 
  else 
    false 
