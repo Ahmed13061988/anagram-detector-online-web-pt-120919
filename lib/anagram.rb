@@ -8,19 +8,7 @@ attr_accessor :word
  end 
   
  def match(word)
-   arr = []
-   arr1 = []
-   arr.each do |a|
-   a 
- end 
- arr1.each do |b|
-   b 
- end 
- if arr == arr1 
-   word 
- else 
-   []
- end 
+  
   end 
    
    
